@@ -1,0 +1,4 @@
+.env/
+*.pyc
+.ipynb_checkpoints/*
+data/*
